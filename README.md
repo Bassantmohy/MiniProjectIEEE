@@ -186,3 +186,4 @@ For any inquiries about the workshop, please contact the workshop organizers:
 - Email: [mahmoud126125@gmail.com]
 - Phone: [01150091280]
 # MiniProjectIEEE
+# MiniProjectIEEE
